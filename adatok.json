@@ -1,0 +1,21 @@
+{
+  "irok":[
+    {
+      "nev": "Jozsef Attila",
+      "szul": 1905
+    },
+    {
+      "nev": "Lackfy Janos",
+      "szul": 1923
+    }
+  ],
+  "konyvek":[
+    {
+      "cim": "Valami"
+    },
+    {
+      "cim": "Barmi"
+
+    }
+  ]
+}
