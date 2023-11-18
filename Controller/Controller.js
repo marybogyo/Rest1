@@ -1,6 +1,6 @@
 import DataService from "../Model/DataServive.js"
 import TablaView from "../View/TablaView.js"
-
+import UrlapView from "../View/Urlap/UrlapView.js"
 export default class Controller{
     constructor(){
         this.dataService=new DataService()
